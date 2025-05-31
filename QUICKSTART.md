@@ -8,7 +8,7 @@ Get up and running with the DefiLlama MCP Server in under 5 minutes!
 
 ```bash
 # 1. Clone or download the repository
-git clone <repository-url>
+git clone https://github.com/bhanusanghi/Defillama-mcp.git
 cd defillama
 
 # 2. Create virtual environment

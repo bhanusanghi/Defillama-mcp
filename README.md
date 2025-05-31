@@ -8,7 +8,7 @@ A simple, powerful Model Context Protocol (MCP) server that gives AI assistants 
 
 ```bash
 # Install from PyPI (coming soon) or clone locally
-git clone <this-repo>
+git clone https://github.com/bhanusanghi/Defillama-mcp.git
 cd defillama
 
 # Install with pip
@@ -22,7 +22,7 @@ defillama-mcp --help
 
 ```bash
 # Download the server file
-curl -O https://raw.githubusercontent.com/your-repo/defillama/main/defillama_mcp_server.py
+curl -O https://raw.githubusercontent.com/bhanusanghi/Defillama-mcp/main/defillama_mcp_server.py
 
 # Install dependencies
 pip install mcp httpx
